@@ -1,50 +1,50 @@
 [
-    {
-      id: 1,
-      name: "Samsung S24 Ultra",
-      price: 10000,
-      quantity: 0,
-      image: "samsung-s24-ultra.jpg",
-      description: "Big screen, S-pen",
-    },
-    {
-      id: 2,
-      name: "Apple IPhone 15 Pro",
-      price: 10000,
-      quantity: 0,
-      image: "apple-iphone15-pro.jpg",
-      description: "Titantium body, Dynamic Island",
-    },
-    {
-      id: 3,
-      name: "Google Pixel 8",
-      price: 9000,
-      quantity: 0,
-      image: "google-pixel8.jpg",
-      description: "AI, Pixel camera",
-    },
-    {
-      id: 4,
-      name: "Huawei Mate 60",
-      price: 9000,
-      quantity: 0,
-      image: "huawei-mate60.png",
-      description: "Kirin 9000s, Harmony OS",
-    },
-    {
-      id: 5,
-      name: "Xiaomi 14",
-      price: 6000,
-      quantity: 0,
-      image: "xiaomi-14.png",
-      description: "90W wired charging, Leica camera",
-    },
-    {
-      id: 6,
-      name: "Asus Rog Phone 8",
-      price: 8000,
-      quantity: 0,
-      image: "asus-rog8.png",
-      description: "Gaming phone, 144Hz screen",
-    },
-  ]
+  {
+    "id": 1,
+    "name": "Samsung S24 Ultra",
+    "price": 10000,
+    "quantity": 0,
+    "image": "samsung-s24-ultra.jpg",
+    "description": "Big screen, S-pen"
+  },
+  {
+    "id": 2,
+    "name": "Apple IPhone 15 Pro",
+    "price": 10000,
+    "quantity": 0,
+    "image": "apple-iphone15-pro.jpg",
+    "description": "Titantium body, Dynamic Island"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 8",
+    "price": 9000,
+    "quantity": 0,
+    "image": "google-pixel8.jpg",
+    "description": "AI, Pixel camera"
+  },
+  {
+    "id": 4,
+    "name": "Huawei Mate 60",
+    "price": 9000,
+    "quantity": 0,
+    "image": "huawei-mate60.png",
+    "description": "Kirin 9000s, Harmony OS"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 14",
+    "price": 6000,
+    "quantity": 0,
+    "image": "xiaomi-14.png",
+    "description": "90W wired charging, Leica camera"
+  },
+  {
+    "id": 6,
+    "name": "Asus Rog Phone 8",
+    "price": 8000,
+    "quantity": 0,
+    "image": "asus-rog8.png",
+    "description": "Gaming phone, 144Hz screen"
+  }
+]
